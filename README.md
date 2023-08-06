@@ -9,9 +9,10 @@ Welcome to Web Simon Game, a web-based implementation of the classic memory game
 
 - [Demo](#demo)
 - [Technologies Used](#Technologies-Used)
+- [Gameplay](#Gameplay)
+- [Features](#Features)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Demo
