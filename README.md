@@ -7,11 +7,10 @@ Welcome to Web Simon Game, a web-based implementation of the classic memory game
 
 ## Table of Contents 📑
 
-- [Demo](#demo)
+- [Demo](#Demo)
 - [Technologies Used](#Technologies-Used)
 - [Gameplay](#Gameplay)
 - [Features](#Features)
-- [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 
@@ -36,10 +35,6 @@ Web Simon Game includes several features to enhance the user experience, includi
 
 - 🎵 Sound effects and animations to provide feedback when the player presses a button or completes a round.
 
-
-## Getting Started 🛠️
-
-To get started with Web Simon Game, simply clone or download this repository to your local machine. You can then open the `index.html` file in your web browser to play the game.
 
 ## How to Play 🤔
 
